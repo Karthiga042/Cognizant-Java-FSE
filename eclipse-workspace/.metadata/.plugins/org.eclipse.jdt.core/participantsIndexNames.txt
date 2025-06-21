@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+C:\Users\karth\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1311646915.index
+\DemoProject\src\main\java
+C:\Users\karth\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3934879432.index
+\portalservlets\src\main\java
