@@ -1,0 +1,1 @@
+package com.karthiga.jpahibernate.repository;
